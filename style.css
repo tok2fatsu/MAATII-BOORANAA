@@ -100,7 +100,7 @@ menu a button:hover {
 }
 
 .background-container--image1 {
-    background-image: url(/images/GEDA\ UNDER\ TREE.jpg);
+    background-image: url(../images/GEDA\ UNDER\ TREE.jpg);
     min-height: 100%;
 }
 
@@ -144,7 +144,7 @@ menu a button:hover {
 }
 
 .background-container--image2 {
-    background-image: url(/images/PUBLIC\ UNDER\ TREE.jpg);
+    background-image: url(../images/PUBLIC\ UNDER\ TREE.jpg);
     min-height: 80%;
 }
 
@@ -154,7 +154,7 @@ menu a button:hover {
 }
 
 .background-container--image3 {
-    background-image: url(/images/UNDER\ TREE.jpg);
+    background-image: url(../images/UNDER\ TREE.jpg);
     min-height: 80%;
 }
 
@@ -169,12 +169,12 @@ menu a button:hover {
 }
 
 .background-container--image4 {
-    background-image: url(/images/UNDER\ TREE\ CLOSEUP.jpg);
+    background-image: url(../images/UNDER\ TREE\ CLOSEUP.jpg);
     min-height: 100%;
 }
 
 .background-container--image5 {
-    background-image: url(/images/UNDER\ TREE\ SCHOOL.jpg);
+    background-image: url(../images/UNDER\ TREE\ SCHOOL.jpg);
     min-height: 100%;
 }
 
